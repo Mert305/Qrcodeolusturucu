@@ -1,0 +1,2 @@
+# Qrcodeolusturucu
+Qrcodeolusturucu
